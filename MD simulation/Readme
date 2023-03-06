@@ -1,0 +1,3 @@
+The folder Vasp_data contains the files for the ab initio molecular dynamics calculation process of GaFeMnNiCu, including INCAR, POSCAR, POTCAR, KPOINTS, etc.
+The folder Deepmd_data contains the files for the calculation process of training machine learning interatomic potential, including the OUTCAR dataset processed by dpdata, deepmd-kit input and output files, interatomic potential test results, etc.
+The folder Lammps_data contains the files for the process of using the machine learning interatomic potential for molecular dynamics to calculate the solidification and nucleation of GaFeMnNiCu, including a LAMMPS input file, machine learning interatomic potential, dump trajectory files, etc.
