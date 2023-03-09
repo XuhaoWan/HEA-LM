@@ -2,13 +2,6 @@
 # -*- coding:utf-8 -*-
 #author: xhwan
 
-#!/usr/bin/env python
-# -*- coding:utf-8 -*-
-#author: xhwan
-
-#!/usr/bin/env python
-# -*- coding:utf-8 -*-
-#author: xhwan
 
 from itertools import combinations
 import math
@@ -43,7 +36,6 @@ Mn = einHEA('Mn', 100, 139)
 Ru = einHEA('Ru', 100, 126)
 Rh = einHEA('Rh', 100, 135)
 Pd = einHEA('Pd', 100, 131)
-Pt = einHEA('Pt', 100, 128)
 In = einHEA('In', 100, 144)
 Sn = einHEA('Sn', 100, 141)
 Mg = einHEA('Mg', 100, 130)
